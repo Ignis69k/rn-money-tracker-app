@@ -78,7 +78,7 @@ Join our community of developers creating universal apps.
 
 - Welcome
 
-  ![Welcome](welcome.png)
+  ![Welcome](<img src="./preview/welcome.png" width="200" height="200">)
 
 - Login Screen
 
