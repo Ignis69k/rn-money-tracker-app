@@ -76,4 +76,4 @@ Join our community of developers creating universal apps.
 
 ## ScreenShot of the app
 
-<img src="/preview/splash_screen.png" width="45%"></img> &nbsp <img src="/preview/welcome.png" width="45%"></img> <img src="/preview/login.png" width="45%"></img> &nbsp <img src="/preview/register.png" width="45%"></img> &nbsp <img src="/preview/income.png" width="45%"></img> &nbsp <img src="/preview/expense.png" width="45%"></img> 
+<img src="/preview/splash_screen.png" width="45%"></img> &nbsp; <img src="/preview/welcome.png" width="45%"></img> <img src="/preview/login.png" width="45%"></img> &nbsp; <img src="/preview/register.png" width="45%"></img> &nbsp; <img src="/preview/income.png" width="45%"></img> &nbsp; <img src="/preview/expense.png" width="45%"></img> 
