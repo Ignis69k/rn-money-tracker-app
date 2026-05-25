@@ -76,22 +76,26 @@ Join our community of developers creating universal apps.
 
 ## ScreenShot of the app
 
+- splash_screen
+
+  ![Splash_screen](/preview/splash_screen.png)
+
 - Welcome
 
-  ![Welcome](<img src="./preview/welcome.png" width="200" height="200">)
+  ![Welcome](/preview/welcome.png)
 
 - Login Screen
 
-  ![Login](login.png)
+  ![Login](/preview/login.png)
+
+- Register Screen
+
+  ![Register](/preview/register)
 
 - Income Screen
 
-  ![Income](income.png)
+  ![Income](/preview/income.png)
 
 - Expense Screen
 
-  ![Expense](expense.png)
-
-- Summary Screen
-
-  ![Summary](summary.png)
+  ![Expense](/preview/expense.png)
