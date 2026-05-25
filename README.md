@@ -76,28 +76,4 @@ Join our community of developers creating universal apps.
 
 ## ScreenShot of the app
 
-<img src="/preview/splash_screen.png" width="45%"></img> <img src="/preview/welcome.png" width="45%"></img> <img src="/preview/login.png" width="45%"></img> <img src="/preview/register.png" width="45%"></img> <img src="/preview/income.png" width="45%"></img> <img src="/preview/expense.png" width="45%"></img> 
-
-- splash_screen
-
-  ![Splash_screen](/preview/splash_screen.png)
-
-- Welcome
-
-  ![Welcome](/preview/welcome.png)
-
-- Login Screen
-
-  ![Login](/preview/login.png)
-
-- Register Screen
-
-  ![Register](/preview/register.png)
-
-- Income Screen
-
-  ![Income](/preview/income.png)
-
-- Expense Screen
-
-  ![Expense](/preview/expense.png)
+<img src="/preview/splash_screen.png" width="45%"></img> &nbsp <img src="/preview/welcome.png" width="45%"></img> <img src="/preview/login.png" width="45%"></img> &nbsp <img src="/preview/register.png" width="45%"></img> &nbsp <img src="/preview/income.png" width="45%"></img> &nbsp <img src="/preview/expense.png" width="45%"></img> 
